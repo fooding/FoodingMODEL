@@ -1,0 +1,5 @@
+Sqlalchemy == 1.0.10
+flask == 0.10.1
+flask_sqlalchemy == 2.1
+flask-restful
+pbkdf2
